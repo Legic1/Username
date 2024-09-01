@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test de Téléchargement</title>
+</head>
+<body>
+    <h1>Test de Téléchargement</h1>
+    <p>Cliquez ci-dessous pour télécharger le fichier de test.</p>
+    <a href="https://amazon.com/test.txt" download>Télécharger le fichier de test</a>
+</body>
+</html>
